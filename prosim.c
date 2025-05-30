@@ -112,7 +112,12 @@ int main() {
         }
     }
 
-
+    // Final stats
+    printf("\n");
+    printf("DOOP count : %d\n", doop_count);
+    printf("DOOP time  : %d\n", doop_time);
+    printf("BLOCK count: %d\n", block_count);
+    printf("BLOCK time : %d\n", block_time);
 
     return 0;
 }
