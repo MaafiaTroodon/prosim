@@ -1,4 +1,4 @@
-# CSCI 3120 - ProSim
+# ProSim
 
 This repository contains my solution to Assignment 1 for the Operating Systems course (CSCI 3120, Summer 2025) at Dalhousie University.
 
